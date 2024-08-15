@@ -53,4 +53,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to modify any part of this README as needed!
+ps: this readme was written by chatgpt haha
