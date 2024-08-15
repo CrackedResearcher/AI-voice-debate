@@ -16,6 +16,7 @@ This is **AI-voice-debate**, a Python-based project that brings you a short and 
 - **Python**: Core programming language for the project.
 - **Google Gemini**: For AI-generated debate content.
 - **AWS Polly**: For converting text to speech.
+- **FastHTML**: For making mordern web apps in python 
 
 ## Getting Started
 
