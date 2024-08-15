@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ### Configuration
 
-You’ll need to configure your Google Gemini and AWS Polly credentials. Ensure you have your API keys ready and add them to your environment variables.
+You’ll need to configure your Google Gemini and AWS API gateway. Ensure you have your API keys ready and add them to your environment variables.
 
 ## Usage
 
