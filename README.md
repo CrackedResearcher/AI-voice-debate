@@ -5,7 +5,7 @@
 
 This is **AI-voice-debate**, a Python-based project that brings you a short and engaging debate on any topic of your choice. Just input a topic, and you’ll get an MP3 (~30-40 seconds) of two AIs debating it for you!
 
-##Features
+## Features
 - **Debate Generation**: Simply provide a topic, and watch two AIs debate it.
 - **Text-to-Speech**: Utilizes AWS Polly for high-quality speech synthesis.
 - **AI Models**: Powered by Google Gemini (ai.google.dev) for intelligent debate.
