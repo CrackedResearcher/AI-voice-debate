@@ -44,7 +44,7 @@ You will receive an MP3 file with the debate on the given topic.
 
 ## Links
 
-- Built by [Ayush](https://x.com/@0xayush1)
+- Built by [Ayush](https://x.com/@0xayush1) <- my twitter
 - Founder of [CalmEmail: AI-powered email assistant for founders](https://calmemail.xyz)
 
 ## License
